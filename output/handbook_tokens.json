@@ -1,0 +1,8 @@
+{
+  "file": "data/shop_handbook.md",
+  "chars": 28903,
+  "words": 6127,
+  "tokens_o200k_base": 10058,
+  "tokens_cl100k_base_for_comparison": 10184,
+  "chars_per_token": 2.87
+}
